@@ -1,6 +1,7 @@
-numpy
-matplotlib
-scipy
-mpmath
-pillow
-pytz
+asyncio  # stdlib
+ipfshttpclient==0.8.0a3
+sounddevice==0.4.6  # For voice
+opencv-python==4.8.1.78  # For video
+tweepy==4.14.0  # For Twitter API
+hashlib  # stdlib
+struct  # stdlib
